@@ -1,3 +1,3 @@
 # final-grafkom
 repo tugas final grafkom
-Sitti Nur Hadijah
+//Sitti Nur Hadijah
